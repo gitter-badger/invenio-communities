@@ -47,3 +47,8 @@ Invenio module that adds support for communities.
 
 * Free software: GPLv2 license
 * Documentation: https://pythonhosted.org/invenio-communities/
+
+
+.. image:: https://badges.gitter.im/krzysztof/invenio-communities.svg
+   :alt: Join the chat at https://gitter.im/krzysztof/invenio-communities
+   :target: https://gitter.im/krzysztof/invenio-communities?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
